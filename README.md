@@ -8,10 +8,15 @@
 ## Example
 
  CDWaveView *wave1 = [[CDWaveView alloc] initWithFrame:CGRectMake(0, 200, [UIScreen mainScreen].bounds.size.width, 100)];
+ 
  wave1.waveSpeed = 5;
+ 
  wave1.waveAmplitude = 50;
+ 
  wave1.waveColor =  [UIColor colorWithRed:200.0/255.0 green:200.0/255.0 blue:200.0/255.0 alpha: 0.8];
+ 
  [self.view addSubview: wave1];
+
 
  [wave1 wave];
 
@@ -29,7 +34,7 @@ pod 'CDWaveView'
 
 ## Author
 
-513433750@qq.com, 513433750@qq.com
+513433750@qq.com
 
 ## License
 
