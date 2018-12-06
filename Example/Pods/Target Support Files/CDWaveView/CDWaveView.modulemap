@@ -1,0 +1,6 @@
+framework module CDWaveView {
+  umbrella header "CDWaveView-umbrella.h"
+
+  export *
+  module * { export * }
+}

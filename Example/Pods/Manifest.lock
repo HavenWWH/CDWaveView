@@ -1,0 +1,16 @@
+PODS:
+  - CDWaveView (0.1.0)
+
+DEPENDENCIES:
+  - CDWaveView (from `../`)
+
+EXTERNAL SOURCES:
+  CDWaveView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CDWaveView: 3ee44fe675a431de4b4e5a95fb6db68b5fdc4fe6
+
+PODFILE CHECKSUM: 8464ae3c2d746bb5c80f753dfefe839d087e8bfe
+
+COCOAPODS: 1.5.3

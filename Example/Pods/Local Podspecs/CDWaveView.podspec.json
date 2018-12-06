@@ -1,0 +1,19 @@
+{
+  "name": "CDWaveView",
+  "version": "0.1.0",
+  "summary": "水波纹",
+  "description": "水波纹, 多条水波纹 不同的波动速度, 即可实现效果",
+  "homepage": "https://github.com/513433750@qq.com/CDWaveView",
+  "license": "MIT",
+  "authors": {
+    "Haven": "513433750@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/HavenWWH/CDWaveView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CDWaveView/*.{h,m}"
+}
